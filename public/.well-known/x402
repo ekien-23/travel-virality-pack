@@ -1,0 +1,15 @@
+{
+  "x402Version": 2,
+  "resources": [
+    {
+      "resource": "https://travel-caption-agent.vercel.app/api/virality",
+      "description": "Travel Virality Pack $0.03",
+      "accepts": [{
+        "scheme": "exact",
+        "network": "base",
+        "maxAmountRequired": "30000",
+        "payTo": "0x1c92f0c2c63255840313d82b13295ecc83503c04"
+      }]
+    }
+  ]
+}
